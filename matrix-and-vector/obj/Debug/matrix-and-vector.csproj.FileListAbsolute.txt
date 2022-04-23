@@ -1,0 +1,11 @@
+C:\Users\fanti\source\repos\matrix-and-vector\matrix-and-vector\bin\Debug\matrix-and-vector.exe.config
+C:\Users\fanti\source\repos\matrix-and-vector\matrix-and-vector\bin\Debug\matrix-and-vector.exe
+C:\Users\fanti\source\repos\matrix-and-vector\matrix-and-vector\bin\Debug\matrix-and-vector.pdb
+C:\Users\fanti\source\repos\matrix-and-vector\matrix-and-vector\obj\Debug\matrix-and-vector.csproj.AssemblyReference.cache
+C:\Users\fanti\source\repos\matrix-and-vector\matrix-and-vector\obj\Debug\matrix-and-vector.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanti\source\repos\matrix-and-vector\matrix-and-vector\obj\Debug\matrix_and_vector.MainForm.resources
+C:\Users\fanti\source\repos\matrix-and-vector\matrix-and-vector\obj\Debug\matrix_and_vector.Properties.Resources.resources
+C:\Users\fanti\source\repos\matrix-and-vector\matrix-and-vector\obj\Debug\matrix-and-vector.csproj.GenerateResource.cache
+C:\Users\fanti\source\repos\matrix-and-vector\matrix-and-vector\obj\Debug\matrix-and-vector.csproj.CoreCompileInputs.cache
+C:\Users\fanti\source\repos\matrix-and-vector\matrix-and-vector\obj\Debug\matrix-and-vector.exe
+C:\Users\fanti\source\repos\matrix-and-vector\matrix-and-vector\obj\Debug\matrix-and-vector.pdb
